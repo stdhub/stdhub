@@ -1,0 +1,53 @@
+{
+   "google_analytics_id":"",
+   "mobile":[
+      {
+         "country":"US, CA, AU, NZ, GB",
+         "data":{
+            "url":"http://program-1.com/aff-url-1",
+            "img":"http://program-1.com/aff-url-1.png",
+            "url":"http://program-2.com/aff-url-2",
+            "img":"http://program-2.com/aff-url-2.png"
+         }
+      },
+      {
+         "country":"DE, AT",
+         "data":{
+            "url":"http://program-3.com/aff-url-3",
+            "img":"http://program-3.com/aff-url-3.png"
+         }
+      },
+      {
+         "country":"FR",
+         "data":{
+            "url":"http://program-4.com/aff-url-4",
+            "img":"http://program-4.com/aff-url-4.png"
+         }
+      },
+      {
+         "country":"ZZ",
+         "data":{
+            "url":"http://program-5.com/aff-url-5",
+            "img":"http://program-5.com/aff-url-5.png"
+         }
+      }
+   ],
+   "desktop":[
+      {
+         "country":"US, CA, AU, NZ, GB",
+         "data":{
+            "url":"http://program-6.com/aff-url-6",
+            "img":"http://program-6.com/aff-url-6.png"
+         }
+      },
+      {
+         "country":"ZZ",
+         "data":{
+            "url":"http://program-7.com/aff-url-7",
+            "img":"http://program-7.com/aff-url-7.png",
+            "url":"http://program-8.com/aff-url-8",
+            "img":"http://program-8.com/aff-url-8.png"
+         }
+      }
+   ]
+}
